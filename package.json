@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BStokuca/geometryRepo/issues"
   },
-  "homepage": "https://github.com/BStokuca/geometryRepo#readme"
+  "homepage": "https://github.com/BStokuca/geometryRepo#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
 }
